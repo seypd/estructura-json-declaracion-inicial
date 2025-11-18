@@ -14,7 +14,7 @@
 				"nombre": "",
 				"primerApellido": "",
 				"segundoApellido": "",
-				"curp": "",			
+				"curp": "",//Si no tiene valor que proporcionar puede usar "-"			
 				"rfc": {
 					"rfc": "",
 					"homoClave": "XXX"
@@ -35,8 +35,8 @@
 					"clave": "OTR",
 					"valor": "OTRO"
 				},
-				"paisNacimiento": "MX",
-				"nacionalidad": "MX",
+				"paisNacimiento": "MX", //Si no tiene valor que proporcionar puede usar "-"
+				"nacionalidad": "MX", //Si no tiene valor que proporcionar puede usar "-"
 				"aclaracionesObservaciones": ""
 			},
 			"domicilioDeclarante": {
@@ -350,4 +350,5 @@
 			"url": ""
 		}
 	}
+
 }
