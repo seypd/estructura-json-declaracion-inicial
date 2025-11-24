@@ -785,6 +785,7 @@
 				"prestamo": [
 					{
 						"tipoOperacion": "AGREGAR",
+						"tipoBienDesc":"",//INMUEBLE, VEHICULO
 						"duenoTitular": {
 							"tipoDuenoTitular": "FISICA",
 							"nombreTitular": "",
@@ -1058,3 +1059,4 @@
 	}
 
 }
+
