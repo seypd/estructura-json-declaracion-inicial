@@ -142,7 +142,10 @@
 						"nivelOrdenGobierno": "",
 						"ambitoPublico": "",
 						"nombreEntePublico": "",
-						"areaAdscripcion": "",
+						"nombreEmpresaSociedadAsociacion": "",
+						"rfc": "",
+            			"areaAdscripcion": "",
+            			"area": "",
 						"empleoCargoComision": "",
 						"funcionPrincipal": "",
 						"fechaIngreso": "YYYY-MM-DD",
@@ -354,4 +357,5 @@
 		}
 	}
 }
+
 
