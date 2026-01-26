@@ -291,6 +291,7 @@
 							"nombreEmpresaSociedadAsociacion": "",
 							"rfc": "",
 							"empleoCargo": "",
+							"empleoCargoComision": "",
 							"fechaIngreso": "YYYY-MM-DD",
 							"salarioMensualNeto": {
 								"valor": "0",
@@ -1089,4 +1090,5 @@
 	}
 
 }
+
 
